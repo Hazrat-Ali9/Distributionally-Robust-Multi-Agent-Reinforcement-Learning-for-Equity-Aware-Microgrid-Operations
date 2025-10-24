@@ -1,6 +1,6 @@
 ⚙️ Distributionally Robust Multi-Agent Reinforcement Learning for Equity-Aware Microgrid Operations 🌍
 
-Distributionally-Robust-Multi-Agent-Reinforcement-Learning-for-Equity-Aware-Microgrid-Operations is an advanced research framework that integrates multi-agent reinforcement learning (MARL), distributionally robust optimization (DRO), and equity-aware control to enable fair, resilient, and efficient energy management in smart microgrids.
+Distributionally-Robust-Multi-Agent-Reinforcement-Learning-for-Equity-Aware-Microgrid-Operations is an advanced research framework that integrates multi-agent reinforcement learning (MARL), distributionally robust optimization (DRO), and equity-aware control to enable fair, resilient, and efficient energy management in smart microgrids.🤡
 
 The project pioneers a novel approach where autonomous agents — representing distributed energy resources (DERs), prosumers, and utility operators — collaboratively optimize energy distribution, pricing, and load balancing under uncertainty and fairness constraints.
 
