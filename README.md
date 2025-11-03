@@ -1,8 +1,10 @@
-# Harzat Ali ( Leader)
+# Team Member
 
-# Kamrun Nahar Kona
+# 1. Harzat Ali ( Leader )
 
-# Sabbir Hossain Sajib
+# 2. Kamrun Nahar Kona
+
+# 3. Sabbir Hossain Sajib
 
 
 
